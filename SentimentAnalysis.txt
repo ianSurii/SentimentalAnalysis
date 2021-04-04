@@ -1,0 +1,2 @@
+https://github.com/ianSurii/SentimentalAnalysis.git
+I decided to do a model for  Tesla company .
